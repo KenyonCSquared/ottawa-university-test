@@ -1043,9 +1043,7 @@ the edge you need in the global marketplace. </p>
 <div class="row">
 					<!-- Copyright -->
 					<div class="col-sm-12 center-on-sm">
-						<p style="text-align: center">
-							© 2021 Powered By <a href="https://www.landify.io">Landify</a>
-						</p>
+
 					</div>
 					<!-- Social Icons -->
 				</div>
