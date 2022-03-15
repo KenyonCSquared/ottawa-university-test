@@ -25,13 +25,13 @@
     if(!empty(trim($_POST['client_name']))){
         $client_name = $_POST['client_name'];
     }else{
-        $client_name = 'Novus Glass';
+        $client_name = 'Ottawa Landing';
     }
 
     if(!empty(trim($_POST['sub_domain']))){
         $sub_domain = $_POST['sub_domain'];
     }else{
-        $sub_domain = 'novus-glass';
+        $sub_domain = 'ottawa landing';
     }
 
     $notification  = new HookNotification();

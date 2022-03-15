@@ -5,7 +5,7 @@ class HookNotification {
 
     public function notify($post){
         $curl = curl_init();
-        $url = 'https://hooks.zapier.com/hooks/catch/10709349/bijzzxe/'; // need to customize this zap
+        $url = 'https://hooks.zapier.com/hooks/catch/10709349/bs19mqk/'; // need to customize this zap
 
 
         $json = json_encode( $post );
